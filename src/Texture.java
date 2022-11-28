@@ -11,6 +11,8 @@ public class Texture {
     public static Texture stone = new Texture("img/textures/brick2.png", 64);
     public static Texture frog = new Texture("img/textures/frog.png", 64);
     public static Texture dog = new Texture("img/textures/dog.png", 128);
+    public static Texture purplebrick = new Texture("img/textures/brick3.png", 64);
+    public static Texture bluebrick = new Texture("img/textures/brick4.png", 64);
 
 	public int[] pixels;
 	private String loc;
